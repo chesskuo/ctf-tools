@@ -15,3 +15,4 @@
 ## Crypto
 
 * [單字母轉換](https://www.guballa.de/substitution-solver)
+* [維吉尼亞密碼](https://www.boxentriq.com/code-breaking/vigenere-cipher)
