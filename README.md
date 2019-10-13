@@ -10,7 +10,7 @@
 * [Java Decompiler](http://java-decompiler.github.io/)
 * [與佛論禪](http://www.keyfc.net/bbs/tools/tudoucode.aspx)
 * [rockstar](https://codewithrockstar.com/)
-* [SSTV]()
+* [SSTV]() 搭配`VBCable`一起使用將音源導入麥克風來無損接收
 * [steghide](http://steghide.sourceforge.net/)
 
 ## Crypto
