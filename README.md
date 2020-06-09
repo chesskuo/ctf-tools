@@ -15,12 +15,16 @@
 ## MISC
 
 * [Stegosolve](http://www.caesum.com/handbook/Stegsolve.jar)
-* [Java Decompiler](http://java-decompiler.github.io/)
 * [與佛論禪](http://www.keyfc.net/bbs/tools/tudoucode.aspx)
 * [rockstar](https://codewithrockstar.com/)
 * [SSTV]() 搭配`VBCable`一起使用將音源導入麥克風來無損接收
 * [steghide](http://steghide.sourceforge.net/)
 * [QR Code 修復](https://merricx.github.io/qrazybox/)
+
+## REVERSE
+
+- [jadx](https://github.com/skylot/jadx)
+- [jbe](https://set.ee/jbe/)
 
 ## Crypto
 
