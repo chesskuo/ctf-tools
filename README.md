@@ -8,7 +8,9 @@
 
 * [PHP 反混淆](https://www.toolfk.com/tool-convert-php)
 
+## PWN
 
+- [syscall table](https://syscalls.w3challs.com/?arch=x86_64)
 
 ## MISC
 
