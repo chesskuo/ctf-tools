@@ -25,6 +25,7 @@
 
 - [jadx](https://github.com/skylot/jadx)
 - [jbe](https://set.ee/jbe/)
+- [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer)
 
 ## Crypto
 
