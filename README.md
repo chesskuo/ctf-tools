@@ -21,6 +21,7 @@
 * [steghide](http://steghide.sourceforge.net/)
 * [QR Code 修復](https://merricx.github.io/qrazybox/)
 * fcrackzip
+* [Aperi Solve](https://aperisolve.fr/)
 
 ## REVERSE
 
