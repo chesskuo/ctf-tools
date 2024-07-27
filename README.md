@@ -28,6 +28,8 @@
 - [jadx](https://github.com/skylot/jadx)
 - [jbe](https://set.ee/jbe/)
 - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer)
+- [python exe unpack](https://pyinstxtractor-web.netlify.app/)
+- [pyc online](https://tool.lu/en_US/pyc/)
 
 ## Crypto
 
